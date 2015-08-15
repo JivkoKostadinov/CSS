@@ -1,0 +1,6 @@
+D:\Programing\Start January 2015\CSS\CSS Basics\CSS Basics\bin\CSS Basics.dll.config
+D:\Programing\Start January 2015\CSS\CSS Basics\CSS Basics\bin\CSS Basics.dll
+D:\Programing\Start January 2015\CSS\CSS Basics\CSS Basics\bin\CSS Basics.pdb
+D:\Programing\Start January 2015\CSS\CSS Basics\CSS Basics\obj\Debug\CSS Basics.csprojResolveAssemblyReference.cache
+D:\Programing\Start January 2015\CSS\CSS Basics\CSS Basics\obj\Debug\CSS Basics.dll
+D:\Programing\Start January 2015\CSS\CSS Basics\CSS Basics\obj\Debug\CSS Basics.pdb

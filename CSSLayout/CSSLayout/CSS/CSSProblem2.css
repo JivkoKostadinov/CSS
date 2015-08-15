@@ -1,0 +1,102 @@
+﻿
+@font-face {
+    font-family: Helvetica Cond Light;
+    src: url(HelveticaNeueLTCom-LtCn.ttf);
+}
+
+body {
+    background-color: #333333;
+    margin: 0;
+    padding: 0;
+}
+h4 {
+    margin-left:20px;
+}
+
+header {
+    font-family: Helvetica Cond Light;
+    font-size: 20px;
+}
+
+div#container {
+    margin: 0;
+    padding: 10px;
+    width: 430px;
+    border: none;
+    border-radius: 10px;
+    background-color: #eeeeee;
+}
+
+div {
+    margin-top: 40px;
+    margin-left:10px;
+    margin-right:10px;
+    border: 1px solid #b3b3b3;
+    font-family: Arial;
+    font-size: 14px;
+    padding: 15px;
+    background-color: #ffffff;
+}
+
+img {
+    border: 1px solid #b3b3b3;
+    float: left;
+    margin: 15px 15px 15px 15px;
+    width: 150px;
+    height: 100px;
+}
+
+
+
+.button1, .button2 {
+    background: url(/images/button.png) repeat-y;
+    display: inline-block;
+    margin: 0;
+    padding:0;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    border: 2px ridge rgba(138, 0, 0, 0.6);
+ 
+}
+
+div.button2 {
+    margin-right: 3px;
+    float: right;
+    width: 77px;
+}
+
+div.button1 {
+    float: right;
+    width: 65px;
+}
+
+p a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #000000;
+    padding-top:50px;
+}
+
+    p a:hover {
+        text-decoration: underline;
+    }
+
+.clearfix {
+   background-color:white;
+    border:1px solid black;
+    margin:20px;
+    margin-left:-2px;
+    margin-right:-2px;
+    padding-right:9px;
+    padding-left:9px;
+}
+
+    .clearfix:after {
+        content: "";
+        display: block;
+        clear: both;
+        height: 0;
+    }

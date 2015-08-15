@@ -1,0 +1,17 @@
+﻿body {
+    font-size:16px;
+}
+
+div {
+    color: #0094ff;
+    font-family: Consolas, Tahoma, 'Times New Roman';
+}
+
+div::first-letter {
+    font-size:2.1em;
+    font-family: 'Edwardian Script ITC';
+}
+
+div:first-line{
+    font-weight: 700;
+}

@@ -1,0 +1,50 @@
+﻿body {
+    font-family:Arial;
+}
+
+table {
+    width:700px;
+    border-spacing:0;
+    border-collapse:collapse;
+  }
+
+th {
+    text-align:left;
+    color: black;
+    font-weight:100;
+    background-color:#2ae41c;
+    border:1px solid black;
+    padding:9px;
+}
+
+td {
+    border:1px  solid black;
+    padding:9px;
+}
+
+
+
+tr:nth-child(2n+2) {
+    background-color:#ededda;
+}
+
+th:last-child {
+    width:20%
+}
+ img {
+     width:30px;
+    height:20px;
+    vertical-align:top;
+ }
+
+ input {
+     margin-left:5px;
+}
+
+ .checkboxes {
+
+    box-shadow: 1px 1px 2px #555 inset;
+    background-color: #555;
+}
+ 
+
